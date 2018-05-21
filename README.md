@@ -27,6 +27,6 @@ VFE	Maximum Flap Extended Speed	96 –20 deg
 87 - Full	Do not exceed this speed with flaps down
 Vy	Best Rate of Climb	103 Kts	
 Vx	Best Angle of Climb	65 Kts	
-Vs	Stall Speed Clean	47 Kts	
+Vs	Stall Speed Clean	49 Kts	
 Vso	Stall Speed Landing Configuration	43 Kts
 ```

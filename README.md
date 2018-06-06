@@ -23,8 +23,7 @@ SPEED	KIAS	REMARKS
 VNE	Never Exceed Speed	182 Kts	Do not exceed this speed in any operations.
 VNO	Maximum Structural Cruising Speed	156 Kts	Exceed this speed only in smooth air.
 VA	Maneuvering Speed	115 Kts	Do not make full control movements above this speed. Full elevator deflection will result in a 6g load at this speed.
-VFE
-        Maximum Flap Extended Speed	96 –-> 20 deg
+VFE     Maximum Flap Extended Speed     96 –-> 20 deg
         87 --> Full: Do not exceed this speed with flaps down
 Vy	Best Rate of Climb	103 Kts	
 Vx	Best Angle of Climb	65 Kts	

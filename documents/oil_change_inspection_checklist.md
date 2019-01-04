@@ -22,11 +22,12 @@ In winter, plug in sump heater to prepare oil for draining.
 - [ ] Dip stick into brake fluid reservoir and ensure proper fluid levels.
 - [ ] Replace cowling and all 8 pins.
 
-## Tail
+## Fuselage
 
 - [ ] Ensure rudder cable guides are in place at exit holes under horizontal stabilizer.
 - [ ] Inspect chains.
 - [ ] Every 100 hours, inspect under empennage fairing for cracks.
+- [ ] Clean antenna and belly (every 100 hours) with orange degreaser.
 
 ## Wheels
 
@@ -42,11 +43,13 @@ In winter, plug in sump heater to prepare oil for draining.
 
 ## Wing
 
+Get the Wax-all aviation blue stuff in a spray bottle. Cotton rag and microfiber cloth for paint.
+
 - [ ] Clean off leading edge. Wax.
+- [ ] clean/Wax the wheel pants while you're there.
 
 ## Canopy
 
 - [ ] Plexus and microfiber cloth to clean.
-
 
 If plane is kept in winter, plug battery and sump heater into power outlet.

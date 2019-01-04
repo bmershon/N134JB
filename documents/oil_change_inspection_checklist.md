@@ -31,7 +31,7 @@ In winter, plug in sump heater to prepare oil for draining.
 
 ## Wheels
 
-- [ ] Ensure tires are not too low.
+- [ ] Ensure tire pressures are not too low. Fill with extender kept in the in-aircraft tool bag.
 - [ ] Inspect tread. Prepare to buy new tires.
 
 ## Cabin

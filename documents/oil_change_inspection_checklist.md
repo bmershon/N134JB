@@ -1,7 +1,12 @@
+Optionally, plug in battery while working.
+
+In winter, plug in sump heater to prepare oil for draining.
+
 ## Firewall forward
 
 - [ ] Oil sample kit ready.
 - [ ] 6 quarts Aeroshell 15w50 to replace drained oil.
+- [ ] Add Camguard (optional).
 - [ ] Package sample from middle of drained oil flow.
 - [ ] Inspect engine mounts.
 - [ ] Inspect cowling condition
@@ -38,3 +43,6 @@
 ## Canopy
 
 - [ ] Plexus and microfiber cloth to clean.
+
+
+If plane is kept in winter, plug battery and sump heater into power outlet.

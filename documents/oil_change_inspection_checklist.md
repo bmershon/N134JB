@@ -1,6 +1,4 @@
-# Experimental RV-6 25-hour Oil Change Checklist
-
-For N134JB.
+# RV-6 N134JB 25-hour Oil Change Checklist
 
 *Some italicized items are optionally performed at 100 hour intervals.*
 
